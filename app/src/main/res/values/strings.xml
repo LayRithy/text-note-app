@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TextNote</string>
+
+    <!-- ToolBar -->
+    <string name="toolbar_search">Search</string>
+    <string name="toolbar_view">LinearView</string>
+
+    <!-- Bottom Navigation -->
+    <string name="bottomnav_home">Home</string>
+    <string name="bottomnav_calender">Calender</string>
+    <string name="bottomnav_more">More</string>
+    <string name="bottomnav_favourite">Favourite</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Title Menu Navigation -->
+    <string name="mnu_archive">Archive</string>
+    <string name="mnu_trash_can">Trash Can</string>
+    <string name="mnu_setting">Setting</string>
+    <string name="mnu_theme">Theme</string>
+    <string name="mnu_tutorial">Tutorial</string>
+    <string name="mnu_like">Like us on facebook</string>
+
+    <string name="edittext_hint_title">Title</string>
+    <string name="edittext_hint_content">Content</string>
+</resources>

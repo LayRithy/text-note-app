@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/id_detail_toolbar_edit"
+        android:title="Edit"
+        android:icon="@drawable/icon_toolbar_edit"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/id_detail_toolbar_favourite"
+        android:title="Favourite"
+        android:icon="@drawable/ic_favourite"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/id_detail_toolbar_remainder"
+        android:title="Remainder"
+        android:icon="@drawable/ic_remainder"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/more"
+        android:title="More"
+        android:icon="@drawable/ic_toolbar_more"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+</menu>

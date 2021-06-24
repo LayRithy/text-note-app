@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292450177474",
+    "project_id": "textnote-app",
+    "storage_bucket": "textnote-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292450177474:android:e027ec01cca9fc2cf1465b",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292450177474-vprfij4d5v3e4sgls1cllpogtjic1ukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjCg5pCe2Qh02cPZ1jMgMimzJb3CIvp9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292450177474-vprfij4d5v3e4sgls1cllpogtjic1ukc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

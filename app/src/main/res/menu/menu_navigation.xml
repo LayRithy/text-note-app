@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group0">
+        <item
+            android:id="@+id/mnu_archive"
+            android:title="@string/mnu_archive"
+            android:icon="@drawable/ic_archive"/>
+        <item
+            android:id="@+id/mnu_trash_can"
+            android:title="@string/mnu_trash_can"
+            android:icon="@drawable/ic_trash_can"/>
+        <item
+            android:id="@+id/mnu_setting"
+            android:title="@string/mnu_setting"
+            android:icon="@drawable/ic_setting"/>
+        <item
+            android:id="@+id/mnu_theme"
+            android:title="@string/mnu_theme"
+            android:icon="@drawable/ic_theme"/>
+        <item
+            android:id="@+id/mnu_tutorial"
+            android:title="@string/mnu_tutorial"
+            android:icon="@drawable/ic_tutorial"/>
+    </group>
+
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/mnu_like"
+            android:title="@string/mnu_like"
+            android:icon="@drawable/ic_like"/>
+    </group>
+
+
+</menu>
